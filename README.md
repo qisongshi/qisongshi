@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on distributed systems.
 - 📫 How to reach me: shiqisong23s@ict.ac.cn
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+-Record of my coding status
+![status](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=qisongshi&layout=compact&theme=transparent)
 
+-Record of my coding stats
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qisongshi&hide=html,makefile&theme=transparent&langs_count=5&layout=compact&count_private=true)
