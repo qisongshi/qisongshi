@@ -5,7 +5,7 @@
 -->
 
 - 👋 I'm a master student at Institute of Computer Technology, CAS.
-- 🔭 I’m currently working on distributed systems and container image.
+- 🔭 I’m currently working on distributed systems and cloud-native technologies.
 - 📫 How to reach me: shiqisong23s@ict.ac.cn
 
 <!--
